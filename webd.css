@@ -1,0 +1,103 @@
+.logo{
+  width : 40px;
+  height :40px;
+}
+.la{
+  background-color: blue;
+  margin-left: 20px;
+  font-family: 'Reggae One', cursive;
+}
+.tomp{
+width: 100%;
+height: 300px;
+ padding-left: 300px;
+ background-image: url(https://thumbs.gfycat.com/FatalShorttermAustraliankelpie.webp);
+}
+.tomp h1{
+  text-align: center;
+  color: green;
+  padding-top: 150px;
+}
+.col-1{
+  display: inline-block;
+padding: 10px;
+padding-top: 50px;
+ background-color: black;
+float: right;
+}
+
+.Container{
+  padding 100px;
+  display: table;
+}
+
+#About{
+  display: table;
+  background-color: yellow;
+  color: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+#About h1{
+  text-align:center;
+ font-family: 'Indie Flower', cursive;
+}
+#left{
+  display: table-cell;
+  padding: 40px;
+}
+
+.la{
+  border: solid 10px;
+align-items: center;
+color: black;
+font-family: 'Dancing Script', cursive;
+
+}
+.la h1{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+.container{
+  display: table;
+
+}
+.container-1{
+  background-color: black;
+}
+.row-justify content center{
+  background-color: black;
+}
+.intrst{
+  display: table-cell;
+  padding: 10px;
+}
+.q{
+  float: right;
+}
+.w{
+  float: right;
+}
+.last{
+  display: table;
+  padding-top: 0;
+  margin-top: 0;
+  margin-left: 1000px;
+  color: yellow;
+}
+.lala{
+  display: table-cell;
+  padding-top: 0;
+  margin-top: 0;
+  padding: 10px;
+margin-left: 1000px;}
+.lala h1{
+  color: red;
+}
+.hm{
+  margin-left: 1000px;
+  color: blue;
+
+
+}
